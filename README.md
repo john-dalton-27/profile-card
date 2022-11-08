@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Profile Card
 Exercício do curso DevQuest para praticar conceitos de Flexbox com CSS.
 
@@ -40,6 +39,3 @@ https://john-dalton-27.github.io/profile-card/
 Exercício criado por <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ>">Front-end mentor</a>,
 Reformulado e simplificado por <a href="https://github.com/devemdobro/devemdobro">Dev em dobro</a>,
 Reproduzido por John Dalton.
-=======
-# meu-readme
->>>>>>> f43704eb8d74fb99cf93b0f377e760d952fa0d58
