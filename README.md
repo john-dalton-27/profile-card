@@ -11,7 +11,7 @@ Exercício do curso DevQuest para praticar conceitos de Flexbox com CSS.
 
 ## Descrição do exercício:
 
-[<img src="./img/profile-card-animation.gif" alt="gif da descrição do exercício" href="https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1">](https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1)
+[<img src="./img/profile-card-animation.gif" alt="gif da descrição do exercício" href="https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1" target="_blank">](https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1)
 
 <br>
 
@@ -36,6 +36,6 @@ https://john-dalton-27.github.io/profile-card/
 <br>
 
 ### Créditos:
-Exercício criado por <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ>">Front-end mentor</a>,
-Reformulado e simplificado por <a href="https://github.com/devemdobro/devemdobro">Dev em dobro</a>,
-Reproduzido por John Dalton.
+Exercício criado por <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank">Front-end mentor</a>,
+reformulado e simplificado por <a href="https://github.com/devemdobro/devemdobro" target="_blank">Dev em dobro</a>,
+reproduzido por John Dalton.
