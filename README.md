@@ -11,7 +11,7 @@ Exercício do curso DevQuest para praticar conceitos de Flexbox com CSS.
 
 ## Descrição do exercício:
 
-[<img src="./img/profile-card-animation.gif" alt="gif da descrição do exercício" href="https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1" target="_blank">](https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1)
+[<img src="./img/profile-card-animation.gif" alt="gif da descrição do exercício" href="https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1">](https://veiled-package-bfe.notion.site/Exerc-cio-HTML-CSS-Avan-ado-Profile-Card-676c04dbf6b044ddb8dc69f40b0b1ae1){:target="_blank" rel="noopener"}
 
 <br>
 
